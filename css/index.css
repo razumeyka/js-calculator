@@ -2,14 +2,13 @@
     display: grid;
     grid-gap: 10px;
     grid-template-columns: 100px 100px 100px 100px;
+    margin-top: 20px;
 }
 
-#enter {
-    grid-area: 1/span 4;
+.show {
     width: 400px;
     height: 50px;
 }
-
 
 nav button {
     width: 70px;
